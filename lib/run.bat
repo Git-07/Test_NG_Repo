@@ -1,4 +1,5 @@
-set projectPath=C:\Users\mohit\workspace\Test_NG
+git clone https://github.com/Git-07/MyRepo.git Test_Repo
+set projectPath=C:\Users\mohit\Test_Repo
 cd\
 cd %projectPath%
 set classpath=%projectPath%\bin;%projectPath%\lib\*;
