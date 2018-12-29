@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Smoke_Test">
+   <groups>
+   <run>
+   <include name ="smoke"/>
+   </run>
+   </groups>
+    <classes>
+<!--       <class name="Test_NG_Package2.Test_NG_Class22"/>
+      <class name="Test_NG_Package1.Test_NG_Class12"/>
+      <class name="Test_NG_Package1.Test_NG_Class13"/>
+      <class name="Test_NG_Package1.Test_NG_Class11"/> -->
+      <class name="Test_NG_Package2.Test_NG_Class21"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

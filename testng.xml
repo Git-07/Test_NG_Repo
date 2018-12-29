@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Property_And_Auto_And_Boat">
+<!--   <test  name="Property_Test">
+  <parameter name="URL" value = "google.com"/>
+  <parameter name="Name" value = "Mohit"/>   
+    <classes>
+     <class name ="Test_NG_Package2.Test_NG_Class21"/>
+      <class name="Test_NG_Package1.Test_NG_Class11">
+      <methods>
+      <exclude name="homeOwners"/>
+      </methods>
+      </class>
+      <class name="Test_NG_Package1.Test_NG_Class11">
+      <methods>
+      <exclude name="home.*"/>
+      </methods>
+      </class>
+      <class name="Test_NG_Package1.Test_NG_Class13"/>
+          
+    </classes>
+     -->
+    
+ <!-- </test> Test -->
+  
+  <test name="Auto_Boat">
+  <classes>
+  
+  <class name ="Test_NG_Package2.Test_NG_Class21"/>
+  </classes>
+  </test>
+</suite> <!-- Suite -->

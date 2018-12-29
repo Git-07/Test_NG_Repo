@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Property_And_Auto_And_Boat]">
+  <test name="Auto_Boat(failed)">
+    <classes>
+      <class name="Test_NG_Package2.Test_NG_Class21">
+        <methods>
+          <include name="auto"/>
+        </methods>
+      </class> <!-- Test_NG_Package2.Test_NG_Class21 -->
+    </classes>
+  </test> <!-- Auto_Boat(failed) -->
+</suite> <!-- Failed suite [Property_And_Auto_And_Boat] -->
